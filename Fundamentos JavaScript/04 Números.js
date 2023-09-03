@@ -19,3 +19,5 @@ console.log(media.toFixed(2));//aqui fixamos a media em até duas casas decimais
 console.log(media.toString(2));//aqui definimos a media como string pelo .tostring caso queira passar para o valor binario definimos 2 ficando da seguinte forma console.log(media.toString(2));
 console.log(typeof media);
 console.log(typeof Number);//Função Number 
+
+
