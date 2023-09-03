@@ -6,7 +6,7 @@ console.log("Passo #3");
  * É importante implantar comentarós mais proximos dos código para que fique facil a explicação do código.
  * Lembrando sempre que comentarios irelevantes devem ser evitados.
  * De preferencia a comentarios sempres legiveis.
- 
-
-*/
+ * De preferencia ao codógo limpo em ambito empresarial.
+ * No curo comente tudo que achar nescessario.
+ */
 
